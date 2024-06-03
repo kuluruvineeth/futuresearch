@@ -1,0 +1,4 @@
+node_modules/*
+config.toml
+node_modules
+.next
